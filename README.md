@@ -37,3 +37,8 @@ The algorithm inserts each element into its correct position. The visualizer dem
 - **Step-by-Step Execution**: Visualize each step of the algorithm to understand the logic clearly.
 
 
+
+
+If using bash type "python3 -m http.server 8080" in terminal to run the index.html file
+
+
